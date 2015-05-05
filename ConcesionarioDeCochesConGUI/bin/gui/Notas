@@ -1,0 +1,26 @@
+Cambiar color caja texto a rojo:
+	textField.setForeground(Color.RED);    
+	
+Este programa es un software gratuito,
+ que tú puedes redistribuir y /o
+modificar bajo los términos de GNU 
+(Licencia Pública General).
+
+Este programa servirá para la gestión de
+ un concesionario, de modo que
+podamos dar de alta o de baja diversos
+ coches; así como mostrar todos los 
+existentes hasta el momento, o buscar uno 
+concreto por matrícula o buscar 
+los que hubiese de un determinado color.
+
+Los coches dispondrán de una matrícula 
+unequívoca, de modo que no podrán
+darse de alta coches con la misma matrícula 
+o nula. Para dar de baja un coche,
+se buscará de acuerdo a su matrícula. 
+
+Los coches también dispondrán de un   
+
+tutorial:
+https://www.youtube.com/watch?v=HeHLvUaZolU                                                                                                                                                                     
